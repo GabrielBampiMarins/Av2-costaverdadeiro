@@ -15,3 +15,18 @@
     margin-bottom: 7px;
     text-align: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .griing{
+        background-color: rgb(rgb(114, 36, 36), green, blue);
+    }
+    .Imagem{
+        border: 5px dotted rgb(rgb(214, 124, 124), green, blue);
+        width: 180px!important;
+        height: 160px!important;
+    }
+.titulo{
+    font-size: 30px;
+    color: rgb(146, 83, 204);
+    }
+}
